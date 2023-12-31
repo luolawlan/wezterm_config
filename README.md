@@ -1,2 +1,2 @@
-# .wezterm.lua
+# wezterm configure files
 My wezterm configure repo
